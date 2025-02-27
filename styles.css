@@ -105,9 +105,9 @@ body {
 }
 .first-image-h{
     font-family: 'Fredoka One', sans-serif;
-    font-size: 70px;
+    font-size: 75px;
     width: 750px;
-    margin-right:100px;
+    margin-left: 100px;
 }
 
 .second-image-h, .third-image-h {
@@ -187,4 +187,7 @@ footer {
     font-size: 12px;
     opacity: 0.8;
 }
+
+
+
 
