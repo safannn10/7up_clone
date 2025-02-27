@@ -90,7 +90,7 @@ body {
 
 .first-image-content{
     text-align: center;
-    margin-right: 900px;
+    margin-right: 700px;
 }
  .second-image-content, .third-image-content {
     text-align: center;
@@ -107,7 +107,7 @@ body {
     font-family: 'Fredoka One', sans-serif;
     font-size: 75px;
     width: 750px;
-    margin-left: 100px;
+    
 }
 
 .second-image-h, .third-image-h {
